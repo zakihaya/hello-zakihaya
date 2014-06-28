@@ -16,7 +16,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Greet without modification
+
+    hello_zakihaya = HelloZakihaya.new
+    hello_zakihaya.say                   # "Hello zakihaya"
+
+Greet with modification
+
+    hello_zakihaya = HelloZakihaya.new
+    hello_zakihaya.say("small")          # "Hello small zakihaya"
 
 ## Contributing
 
