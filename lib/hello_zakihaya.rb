@@ -1,5 +1,12 @@
 require "hello_zakihaya/version"
+require "active_support/core_ext"
 
-module HelloZakihaya
-  # Your code goes here...
+class HelloZakihaya
+  def say(modifiation = nil)
+    if modifiation.present?
+      puts "Hello #{modifiation} zakihaya"
+    else
+      puts "Hello zakihaya"
+    end
+  end
 end
