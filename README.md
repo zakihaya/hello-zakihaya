@@ -6,15 +6,11 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'hello_zakihaya'
+    gem "hello_zakihaya", git: 'git@github.com:zakihaya/hello-zakihaya.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install hello_zakihaya
 
 ## Usage
 
