@@ -1,5 +1,5 @@
 require "hello_zakihaya/version"
-require "active_support/core_ext"
+require "active_support/all"
 
 class HelloZakihaya
   def say(modifiation = nil)
