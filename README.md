@@ -1,5 +1,7 @@
 # HelloZakihaya
 
+[![Build Status](https://travis-ci.org/zakihaya/hello-zakihaya.png)](https://travis-ci.org/zakihaya/hello-zakihaya)
+
 ## Installation
 
 Add this line to your application's Gemfile:
